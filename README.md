@@ -7,12 +7,7 @@
 # Wiki Template(Product Name): Product Title(let people recognise your product)
 Wiki Template is developed and maintained by Dhaka CT Team. 
 
-A brief introduction of product needs to be present here.
-
-[Example or Scenario](https://github.com/facebook/rocksdb/tree/main/examples) can be shared through link here.
-
-See the github [Wiki](https://github.com/JannatRuma/Wiki_Template/wiki) for full documentation, examples, operational details and other information.
-
+A brief introduction of product needs to be present here. [Example or Scenario](https://github.com/facebook/rocksdb/tree/main/examples) can be shared through link here. See the github [Wiki](https://github.com/JannatRuma/Wiki_Template/wiki) for full documentation, examples, operational details and other information.
 See the [Javadoc](http://netflix.github.com/Hystrix/javadoc) for the API.
 
 ## Getting Started (Installation)
@@ -52,14 +47,9 @@ Request => GetUserAccountCommand[SUCCESS][4ms], GetPaymentInformationCommand[SUC
 
 This demo simulates 4 different [HystrixCommand](https://github.com/Netflix/Hystrix/tree/master/hystrix-core/src/main/java/com/netflix/hystrix/HystrixCommand.java) implementations with failures, latency, timeouts and duplicate calls in a multi-threaded environment.
 
-It logs the results of [HystrixRequestLog](https://github.com/Netflix/Hystrix/tree/master/hystrix-core/src/main/java/com/netflix/hystrix/HystrixRequestLog.java) and metrics from [HystrixCommandMetrics](https://github.com/Netflix/Hystrix/tree/master/hystrix-core/src/main/java/com/netflix/hystrix/HystrixCommandMetrics.java).
-
-
 ## Bugs and Feedback
 
 For bugs, questions and discussions please use the [GitHub Issues](https://github.com/Netflix/Hystrix/issues).
-
-
 Questions and discussions are welcome on the [RocksDB Developers Public](https://www.facebook.com/groups/rocksdb.dev/) Facebook group and [email list](https://groups.google.com/g/rocksdb) on Google Groups.
 
 
@@ -70,5 +60,4 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 ## License
 
 Copyright (c) Microsoft Corporation. All rights reserved.
-
 Licensed under the [MIT](LICENSE.txt) license.
