@@ -8,4 +8,4 @@
 - Facilitate the exploration and search of content
 - Stimulate contributions while promoting quality
 
-Follow the [Wiki Template]() to get a demo and can use it.
+Follow the [Wiki Template](https://github.com/JannatRuma/Wiki_Template/blob/main/README.md) to get a demo and can use it.
