@@ -1,6 +1,10 @@
 [![Feature Requests](https://img.shields.io/github/issues/microsoft/vscode/feature-request.svg)](https://github.com/microsoft/vscode/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc)
 [![Bugs](https://img.shields.io/github/issues/microsoft/vscode/bug.svg)](https://github.com/microsoft/vscode/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3Abug)
 [![Gitter](https://img.shields.io/badge/chat-on%20gitter-yellow.svg)](https://gitter.im/Microsoft/vscode)
+[![NetflixOSS Lifecycle](https://img.shields.io/osslifecycle/Netflix/hystrix.svg)]()
+[![][travis img]][travis]
+[![][maven img]][maven]
+[![][license img]][license]
 
 # Wiki Template(Product Name): Product Title(let people recognise your product)
 Wiki Template is developed and maintained by Dhaka CT Team. 
