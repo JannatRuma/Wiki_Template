@@ -17,6 +17,8 @@ See the [Javadoc](http://netflix.github.com/Hystrix/javadoc) for the API.
 
 ## Getting Started (Installation)
 
+### Pre-requisites
+
 ## Build
 
 To build:
