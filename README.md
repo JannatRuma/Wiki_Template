@@ -7,12 +7,14 @@
 # Wiki Template(Product Name): Product Title(let people recognise your product)
 Wiki Template is developed and maintained by Dhaka CT Team. 
 
-A brief introduction of product needs to be present here. [Example or Scenario](https://github.com/facebook/rocksdb/tree/main/examples) can be shared through link here. See the github [Wiki](https://github.com/JannatRuma/Wiki_Template/wiki) for full documentation, examples, operational details and other information.
+A brief introduction of product needs to be present here. [Example or Scenario](https://github.com/facebook/rocksdb/tree/main/examples) can be shared through link here. 
+See the github [Wiki](https://github.com/JannatRuma/Wiki_Template/wiki) for full documentation, examples, operational details and other information.
 See the [Javadoc](http://netflix.github.com/Hystrix/javadoc) for the API.
 
 ## Getting Started (Installation)
 
-### Pre-requisites
+See the github [Wiki](https://github.com/JannatRuma/Wiki_Template/wiki)
+
 
 ## Build
 
