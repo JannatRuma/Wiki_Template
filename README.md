@@ -5,7 +5,7 @@
 
 
 # Wiki Template(Product Name): Product Title(let people recognise your product)
-Wiki Template is developed and maintained by Dhaka CT Team. 
+Wiki Template is developed and maintained by CT Team. 
 
 A brief introduction of product needs to be present here. [Example or Scenario](https://github.com/facebook/rocksdb/tree/main/examples) can be shared through link here. 
 See the github [Wiki](https://github.com/JannatRuma/Wiki_Template/wiki) for full documentation, examples, operational details and other information.
